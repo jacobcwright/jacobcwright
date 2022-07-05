@@ -8,9 +8,8 @@
 - 🌱 &nbsp; Currently learning more about machine learning and mobile app development.
 - ✍️ &nbsp; Participating in Sandbox 02, a tech startup incubator program. (https://creators.byu.edu/)
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Technologies</h3>
 
-- 💻 &nbsp;
   ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
