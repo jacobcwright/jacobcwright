@@ -32,5 +32,5 @@
 
 <p align="center">
 <a href="https://jacob-wright.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/jacobcwright/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/jacob-c-wright/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 </p>
