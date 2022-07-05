@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Learning as much as I can everyday before my head starts to hurt.
 - 🎓 &nbsp; Studying Computer Science at Brigham Young University.
-- 💼 &nbsp; Working as a Software Engineer at GUIDEcx.
+- 💼 &nbsp; Working as a Software Engineer at GUIDEcx. (https://www.guidecx.com/)
 - 🌱 &nbsp; Currently learning more about machine learning and mobile app development.
 - ✍️ &nbsp; Participating in Sandbox 02, a tech startup incubator program. (https://creators.byu.edu/)
 
