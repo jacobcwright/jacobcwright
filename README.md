@@ -31,6 +31,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://jacob-wright.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-https://jacob-wright.vercel.app/#-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://jacob-wright.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/jacobcwright/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 </p>
