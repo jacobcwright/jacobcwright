@@ -2,7 +2,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Learning as much as I can everyday before my head starts to hurt.
 - 🎓 &nbsp; Studying Computer Science at Brigham Young University.
 - 💼 &nbsp; Working as a Software Engineer at GUIDEcx. (https://www.guidecx.com/)
 - 🌱 &nbsp; Currently learning more about machine learning and mobile app development.
