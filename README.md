@@ -17,15 +17,6 @@
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-
-<br/>
-
-<a href="https://github.com/jacobcwright">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobcwright&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
