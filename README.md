@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science at Brigham Young University.
+- 🎓 &nbsp; Senior in Computer Science at Brigham Young University.
 - 💼 &nbsp; Working as a Software Engineer at GUIDEcx. (https://www.guidecx.com/)
 - 🌱 &nbsp; Currently learning more about machine learning and mobile app development.
 - 🏗 &nbsp; Participating in Sandbox 02, a tech startup incubator program. (https://creators.byu.edu/)
