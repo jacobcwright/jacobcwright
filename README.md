@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Senior in Computer Science at Brigham Young University.
 - 💼 &nbsp; Working as a Software Engineer at GUIDEcx. (https://www.guidecx.com/)
-- 🌱 &nbsp; Currently learning more about machine learning and mobile app development.
+- 🌱 &nbsp; Currently building a mobile app, releasing in October 2022.
 - 🏗 &nbsp; Participating in Sandbox 02, a tech startup incubator program. (https://creators.byu.edu/)
 
 <h3> 🛠 &nbsp;Technologies</h3>
