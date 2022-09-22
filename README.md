@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Senior in Computer Science at Brigham Young University.
-- 💼 &nbsp; Working as a Software Engineer at GUIDEcx. (https://www.guidecx.com/)
+- 💼 &nbsp; Working as a Software Engineer at GUIDEcx. (https://guidecx.com/)
 - 🌱 &nbsp; Currently building a social media trend predictor tool. (https://prophesy-ai.com)
 - 🏗 &nbsp; Participating in Sandbox 02, a tech startup incubator program. (https://creators.byu.edu/)
 
