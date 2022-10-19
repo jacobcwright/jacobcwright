@@ -4,7 +4,6 @@
 
 - 🎓 &nbsp; Senior in Computer Science at Brigham Young University.
 - 💼 &nbsp; Working as a Software Engineer at GUIDEcx. (https://guidecx.com/)
-- 🌱 &nbsp; Currently building a social media trend predictor using ML. (https://prophesy-ai.com)
 - 🏗 &nbsp; Participating in Sandbox 02, a tech startup incubator program. (https://creators.byu.edu/)
 - 🌎 &nbsp; Trying to support and contribute to open source projects as much as possible.
 
