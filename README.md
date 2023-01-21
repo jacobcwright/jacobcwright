@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Junior in Computer Science at Brigham Young University.
 - 🌱 &nbsp; Participating in Sandbox 02, a tech startup incubator program. (https://creators.byu.edu/)
-- 🏗 &nbsp; Building a B2B SaaS for Home Builders and the distribution of Home Services (https://onestonelogistics.com)
+- 🏗 &nbsp; Building a B2B SaaS for Home Builders and the distribution of Home Services
 - 🌎 &nbsp; Trying to support and contribute to open source projects as much as possible.
 
 <h3> 🛠 &nbsp;Technologies</h3>
