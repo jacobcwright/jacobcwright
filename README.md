@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Junior/Senior in Computer Science at Brigham Young University.
+- 🎓 &nbsp; Junior/Senior in Computer Science at Brigham Young University. (https://byu.edu)
 - 🌱 &nbsp; Participating in Sandbox 02, a tech startup incubator program. (https://creators.byu.edu/)
-- 🏗 &nbsp; Building a B2B SaaS for Home Builders and the distribution of Home Services
+- 🏗 &nbsp; Building a B2B SaaS for Home Builders and the distribution of Home Services (https://get.rizzy.app)
 - 🌎 &nbsp; Trying to support and contribute to open source projects as much as possible.
 
 <h3> 🛠 &nbsp;Technologies</h3>
