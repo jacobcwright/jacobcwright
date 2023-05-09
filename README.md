@@ -4,7 +4,6 @@
 
 - ⭐️ &nbsp; Z-Fellow Alumni, participated in April 2023. (https://www.zfellows.com/)
 - 🎓 &nbsp; Junior in Computer Science at Brigham Young University. (https://byu.edu)
-- 🌱 &nbsp; Participating in Sandbox 02, a tech startup incubator program. (https://creators.byu.edu/)
 - 🏗 &nbsp; Building a B2B SaaS for Home Builders and the distribution of Home Services (https://proxxy.ai)
 - 🌎 &nbsp; Trying to support and contribute to open source projects as much as possible.
 
