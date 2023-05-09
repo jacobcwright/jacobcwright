@@ -2,7 +2,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- ⭐️ &nbsp; Z-Fellow Alumni, participated in April 2023. (https://www.zfellows.com/)
+- 🤖 &nbsp; HF0 Summer 2023 Fellow (https://www.hf0.com/)
+- Z &nbsp; Z-Fellow Alumni, participated in April 2023. (https://www.zfellows.com/)
 - 🏗 &nbsp; Building a SaaS enabled marketplace to help contractors meet clean energy mandates. (https://proxxy.ai)
 - 🌎 &nbsp; Trying to support and contribute to open source projects as much as possible.
 
