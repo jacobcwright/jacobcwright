@@ -3,7 +3,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - ⭐️ &nbsp; Z-Fellow Alumni, participated in April 2023. (https://www.zfellows.com/)
-- 🎓 &nbsp; Junior in Computer Science at Brigham Young University. (https://byu.edu)
 - 🏗 &nbsp; Building a SaaS enabled marketplace to help contractors meet clean energy mandates. (https://proxxy.ai)
 - 🌎 &nbsp; Trying to support and contribute to open source projects as much as possible.
 
