@@ -4,8 +4,7 @@
 
 - 🤖 &nbsp; HF0 Summer 2023 Fellow (https://www.hf0.com/)
 - 🏗 &nbsp; Z-Fellow Alumni, participated in April 2023. (https://www.zfellows.com/)
-- 🌤️ &nbsp; Building a SaaS enabled marketplace to help contractors meet clean energy mandates. (https://proxxy.ai)
-- 🌎 &nbsp; Trying to support and contribute to open source projects as much as possible.
+- 🌤️ &nbsp; Building a SaaS enabled marketplace to help home builders meet clean energy standards. (https://proxxy.ai)
 
 <h3> 🛠 &nbsp;Technologies</h3>
 
