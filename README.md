@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤖 &nbsp; HF0 Summer 2023 Fellow (https://www.hf0.com/)
-- 🏗 &nbsp; Z-Fellow Alumni, participated in April 2023. (https://www.zfellows.com/)
-- 🌤️ &nbsp; Helping fight climate change. (https://useproxy.com)
+- 🏗 &nbsp; Z-Fellow Alumni, participated in April 2023 (https://www.zfellows.com/)
+- 🌤️ &nbsp; Helping fight climate change (https://useproxy.com)
 
 <h3> 🛠 &nbsp;Technologies</h3>
 
