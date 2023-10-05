@@ -22,5 +22,5 @@
 <a href="https://twitter.com/jahvascript"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/jacob-c-wright/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://leetcode.com/jacobcwright/"><img alt="Leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
-<a href="https://jacobwright.xyz"><img alt="Website" src="https://img.shields.io/badge/Website-000000?"></a>
+<a href="https://jacobwright.xyz"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=#000000"></a>
 </p>
