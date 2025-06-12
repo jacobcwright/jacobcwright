@@ -6,17 +6,6 @@
 - 🤖 &nbsp; HF0 Summer 2023 Fellow (https://www.hf0.com)
 - 🏗 &nbsp; Z-Fellow Alumni, participated in April 2023 (https://www.zfellows.com)
 
-<h3> 🛠 &nbsp;Technologies</h3>
-
-  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-  
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
